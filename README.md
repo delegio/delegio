@@ -13,11 +13,11 @@
 
 ### Backend libraries
 - [Mongoose](https://mongoosejs.com/)
-- [Express](https://expressjs.com/) 
+- [Express](https://expressjs.com/) and / or [Nest](https://nestjs.com/)
 
 ## Frontend
 - [Angular](https://angular.io/)
-- Native JS, ES6
+- Native JS, ECMAScript
 
 ### Frontend libraries
 - [LeaderLine](https://anseki.github.io/leader-line/)
